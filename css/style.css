@@ -1,0 +1,28 @@
+html{  size: 60%;
+}
+body{
+   /*background-image : url(imge.png) ;*/
+    background-position: center;
+    background-size: cover;
+    background-position: bottom;
+    margin: auto;
+    padding: auto;
+	text-align: center;
+	
+    
+}
+/*
+#hero{
+    width:400px;
+    margin:0 auto;
+    margin-top:10%;
+}
+ Bordered form */
+#avatar {
+	text-align:center;
+    width:140%;
+    padding: 50px;
+    border: 1px solid #98c1d9;
+    background: #98c1d9;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
